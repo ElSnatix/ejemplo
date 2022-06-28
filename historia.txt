@@ -1,6 +1,4 @@
-el carlos me lo re pelaaa
-el entrenohojas es re malo con Bel veth
-zzzzzzzzzzzzz
-uuuuu
-verga esta es la rama header
-zzzzzzzzzzzzz
+Este es el encabezado del documento
+Nombres:
+Materia:
+Universidad Distrital
