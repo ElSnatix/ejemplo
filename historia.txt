@@ -1,4 +1,7 @@
-
+Este es el encabezado del documento
+Nombres: Santiago Guarguati
+Materia:
+Universidad Distrital
 
 
 
@@ -19,5 +22,6 @@ Super codigo
 
 
 Este es el footer del documento
-Gracias por leer toda esta monda
-bai
+Gracias por leer toda esta 
+
+
