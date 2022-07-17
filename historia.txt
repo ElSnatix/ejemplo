@@ -1,19 +1,9 @@
-Este es el encabezado del documento
-Nombres:
-Materia:
-Universidad Distrital
 
-esta es la rama main
-eeerdaa
-verga esta es la rama header
-zzzzzzzzzzzzz
-verga estoy editando en gitHub zzz
-pues yo desde el visualstudio zzzz izi gg
-el que edite la linea 11 desde github es re gay
-cambio re 
-care vergas
 
-Este es el footer del documento
-Gracias por leer toda esta monda
-bai
-cambio hoy jajajajaj
+
+
+
+
+
+Super codigo 
+
